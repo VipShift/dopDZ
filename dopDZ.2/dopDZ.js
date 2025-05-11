@@ -1,3 +1,5 @@
+// DZ.2
+
 function showSuccessMessage(message) {
     console.log(message);
   }
