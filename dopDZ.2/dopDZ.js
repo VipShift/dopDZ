@@ -1,4 +1,4 @@
-// DZ.2
+// DZ 2
 
 function showSuccessMessage(message) {
     console.log(message);
